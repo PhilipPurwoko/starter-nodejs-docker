@@ -1,0 +1,23 @@
+{
+  "name": "starter-nodejs-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/PhilipPurwoko/starter-nodejs-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/PhilipPurwoko/starter-nodejs-docker/issues"
+  },
+  "homepage": "https://gitlab.com/PhilipPurwoko/starter-nodejs-docker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
